@@ -1,0 +1,7 @@
+laravel-app/.env
+.env
+laravel-app/vendor/
+laravel-app/node_modules/
+python-service/__pycache__/
+.idea/
+.vscode/
